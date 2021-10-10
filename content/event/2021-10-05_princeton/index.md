@@ -1,7 +1,7 @@
 ---
 title: Mixed effects models for designs with randomly sampled stimuli
-date: "2021-10-05T16:00:00Z"
-date_end: "2021-10-05T18:00:00Z"
+date: "2021-10-05 16:00:00Z"
+date_end: "2021-10-05 18:00:00Z"
 event: Seminar in Advanced Research Methods
 location: Princeton University
 
